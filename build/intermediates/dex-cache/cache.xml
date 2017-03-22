@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b14654b5ef2c6219a895f72f4ac87d1db48cc9ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/.android/build-cache/0d1a3e2e5e99959c338a5dbfe277d47dc5df7d54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ae5d7043dd2c47b452ee7cbda74b4be7f875f5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/.android/build-cache/e7dd65a3e86e299f77574f07db6a4e87d722d6cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec6dbfa47b7034d3def90929c495fa2fee735f99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6248380310e3a65944cdfee3ef14ce35fda52b10">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da8eeb35a5168b7a7fd35335a858af4e83b934af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/.android/build-cache/90c1126d4044e13e2c0962eca8dcd2bb03e13a8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a53bd95cc36263691542859c84c21eb760f37733/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/.android/build-cache/a3f3cef5c117153b5be988e7f8510b87345dca2b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08ead9b6498102afa12dc8a8f08be17b700b1bec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/.android/build-cache/c3e748af9c8da86b57ad5e9a31e4dd0da80a0bb4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edb22174bac62ae897968e96ea2e2a33e1cd9b5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/.android/build-cache/2287362611ddd3a2115663cba6754373950aebe9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8561b2c28ff1f8fa023ad3e5f57e275624b2cca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/.android/build-cache/aecd10b8e4085d10383b493ddbf565a49240ab83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7a24be9e668bb6010d5320d2b78d3e777afe1ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/.android/build-cache/daa0585dae3e23d1083e9df8b0c82d6aa0b84cac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_426beb1aef3c1db2a8973fe234289b599c153590/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hrsikeshbrahmbhatt/.android/build-cache/0d79402530d395eac3019fdd9ca42eafe4bbab83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/hrsikeshbrahmbhatt/Documents/Android_Projects/Relativelayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_854090f8d471a50f1845c94052f6608b25dc5856/classes.dex" />
+    </item>
+
+</items>
